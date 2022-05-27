@@ -1,4 +1,4 @@
-# htwokey-admin
+# Pinghsu-admin
 
 ## 简介
 pinghsu-admin 是基于[vue-element-admin](https://panjiachen.github.io/vue-element-admin) 开发的一个博客后台管理界面。
